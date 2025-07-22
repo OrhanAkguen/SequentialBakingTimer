@@ -1,4 +1,4 @@
-🇩🇪
+`DE`
 # Backtimer
 
 Dieser C#-Code ist ein einfaches, aber effektives Beispiel für die Anwendung von Windows Forms zur Erstellung eines Backtimers. Auch wenn es sich um ein kleineres Projekt handelt, verdeutlicht es folgende Konzepte:
@@ -15,7 +15,7 @@ Obwohl dieser Code einfach ist, zeigt er, wie man grundlegende UI-Komponenten in
 
 -------
 
-🇬🇧
+`EN`
 # Baking Timer
 
 This C# code is a simple yet effective example of using Windows Forms to create a baking timer. Although it's a smaller project, it demonstrates the following concepts:
